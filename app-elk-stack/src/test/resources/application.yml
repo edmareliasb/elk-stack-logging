@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: ELK-STACK-EXAMPLE
+
+server:
+  port: 9898
+
+logstash:
+  host: localhost
+  port: 99999
